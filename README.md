@@ -1,3 +1,3 @@
 # CNN_regression_tools
 
-Per
+Personal use
